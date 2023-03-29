@@ -41,8 +41,6 @@ Here, some case the model succed to detect the between hig and low confidence:
 
 منة الله صلاح الدين محمد  is a real name with high confidence
 
-مصطفي محمود نوفل  is a real name with high confidence
-
 باسمم وحد السد is a real name with low confidence
 
 باسم وحيد السيد  is a real name with high confidence
@@ -56,7 +54,6 @@ Here, some case the model succed to detect the between hig and low confidence:
 ### **c. How to verify the result you claim**
 After using test cases sometimes the model can classify the name correctly and some time failed to classify it, but overalll we can say the model cav verify and classify the name correct name or incorrect.
 
-محمود رضوان محمود  is a real name with high confidence
 
 باسمم1 وحةد السد is a real name with low confidence 
 
